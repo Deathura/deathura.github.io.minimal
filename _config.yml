@@ -16,12 +16,12 @@ minima:
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
-    github: https://github.com/Deathura
+    github: Deathura
     #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: https://www.instagram.com/altouniansebastien/
+    instagram: altouniansebastien
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
