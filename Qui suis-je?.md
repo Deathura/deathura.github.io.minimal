@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Qui suis-je ?
+permalink: /whoami/
 ---
 
 Bienvenue sur mon site personnel !
