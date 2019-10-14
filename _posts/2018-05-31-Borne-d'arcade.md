@@ -51,7 +51,7 @@ Vernis, produit magique ? Certes, mais un produit capricieux : il faut faire enc
 
 Mais je ne vous fais pas attendre plus longtemps et vous présente ici même le résultat :
 
-![Photo de la borne vernie](https://github.com/Deathura/deathura.github.io/blob/master/assets/images/borne_arcade/vernis.jpg)
+![Photo de la borne verni test](https://deathura.github.io/assets/images/borne_arcade/vernis.jpg)
 
 Le vernis apporte non seulement une bonne protection mais également un aspect brillant et une sensation de profondeur (effet mirroir). Si j'avais voulu faire comme les voitures de luxe, il aurait fallu que je ponce le vernis avec un grain très fin, puis que j'en repasse une couche et que je réitère ces deux opérations plusieurs fois. C'est cette répétition de procédé qui fait la qualité de la peinture finie et donne vraiment un aspect de profondeur prononcé.
 
