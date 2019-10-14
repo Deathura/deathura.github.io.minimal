@@ -11,7 +11,7 @@ J'avais fait un petit plan 3D en guise de maquette pour pouvoir tester différen
 
 Scie sauteuse, scie circulaire, rabot électrique, visseuse et voilà la structure de la borne faite !
 
-![Pictures of the wood stucture](structure_bois.jpg)
+![Photo de la structure bois](https://deathura.github.io/assets/images/borne_arcade/structure_bois.jpg)
 
 Je n'ai pas de photos avant celle-là... En général, pris dans mon projet, j'oublie de faire des photos et ce n'est qu'après que je me dis que je suis stupide et que j'aurais dû en faire... bref...
 
@@ -23,7 +23,7 @@ J'ai également ajouté des roulettes à l'arrière et des pieds réglables à l
 
 J'ai ensuite commencé le travail de rebouchage des pores du bois. J'ai utilisé pour ça du mastic de carrossier (oui le but est toujours d'apprendre la peinture automobile). Après avoir bien galéré entre le temps de séchage ultra rapide du produit, la manipulation et l'étalement du mastic, le ponçage de mes bavures et de la borne en générale, ça ressemblait à ça :
 
-![Photo mastic](assets/images/borne_arcade/pieds+mastic.jpg)
+![Photo mastic](https://deathura.github.io/assets/images/borne_arcade/pieds+mastic.jpg)
 
 Je me rendais déjà compte à ce moment que je n'avais pas fini de poncer... J'avais déjà poncé le bois une fois pour lisser les assemblages et enlever le plus gros, puis après la première couche de mastic, puis après la seconde couche (car oui j'ai dû m'y reprendre à 2 fois avant d'avoir un bon résultats)... Mais point positif, je maniais de mieux en mieux les spatules et le mastic !
 
@@ -33,13 +33,13 @@ Encore une fois, j'ai dû passer plusieurs couches d'apprêt car ma surface n'é
 
 Malgré mes galères, le résultat devenait de plus en plus satisfaisant :
 
-![Photo de la borne apprêtée](https://github.com/Deathura/deathura.github.io/assets/images/borne_arcade/appret.jpg)
+![Photo de la borne apprêtée](https://deathura.github.io/assets/images/borne_arcade/appret.jpg)
 
 nb : les deux teintes differentes (jaune et blanc) viennent du fait que j'aie changé de type d'apprêt entre les 2 couches : j'ai fini le vieux pôt de jaune et il m'a fallu piquer un peu du nouveau (le blanc).. oupsi.
 
 Une fois l'apprêt séché et la borne **PONCEE**, j'ai choisi la teinte que je voulais à l'aide d'un nuancier et j'ai fait le mélange après avoir suivi le cours "le mélange au centième de gramme près pour les nuls" délivré par le carrossier. J'ai donc fait mes petits mélanges, réenfillé mon masque et appliqué la peinture. Ayant déjà fait 2 couches d'apprêt sur la borne, je commençais à gérer de mieux en mieux l'application au pistolet (ni trop loin pour ne pas faire de "nuages" ni trop près pour éviter les coulures !). Après un petit temps de séchage / chauffage (oui il faut chauffer un peu pour que la peinture "s'étire"), la borne ressemblait à ça :
 
-![Photo de la borne peinte](../assets/images/borne_arcade/peinture.jpg)
+![Photo de la borne peinte](https://deathura.github.io/assets/images/borne_arcade/peinture.jpg)
 
 Autant vous dire que là... J'étais déjà bien à fond et très content du résultat !
 
@@ -51,7 +51,7 @@ Vernis, produit magique ? Certes, mais un produit capricieux : il faut faire enc
 
 Mais je ne vous fais pas attendre plus longtemps et vous présente ici même le résultat :
 
-![Photo de la borne verni test](https://deathura.github.io/assets/images/borne_arcade/vernis.jpg)
+![Photo de la borne vernie](https://deathura.github.io/assets/images/borne_arcade/vernis.jpg)
 
 Le vernis apporte non seulement une bonne protection mais également un aspect brillant et une sensation de profondeur (effet mirroir). Si j'avais voulu faire comme les voitures de luxe, il aurait fallu que je ponce le vernis avec un grain très fin, puis que j'en repasse une couche et que je réitère ces deux opérations plusieurs fois. C'est cette répétition de procédé qui fait la qualité de la peinture finie et donne vraiment un aspect de profondeur prononcé.
 
