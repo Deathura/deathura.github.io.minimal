@@ -23,7 +23,7 @@ J'ai également ajouté des roulettes à l'arrière et des pieds réglables à l
 
 J'ai ensuite commencé le travail de rebouchage des pores du bois. J'ai utilisé pour ça du mastic de carrossier (oui le but est toujours d'apprendre la peinture automobile). Après avoir bien galéré entre le temps de séchage ultra rapide du produit, la manipulation et l'étalement du mastic, le ponçage de mes bavures et de la borne en générale, ça ressemblait à ça :
 
-![Photo de la structure bois](../assets/images/borne_arcade/pieds+mastic.jpg)
+![Photo mastic](assets/images/borne_arcade/pieds+mastic.jpg)
 
 Je me rendais déjà compte à ce moment que je n'avais pas fini de poncer... J'avais déjà poncé le bois une fois pour lisser les assemblages et enlever le plus gros, puis après la première couche de mastic, puis après la seconde couche (car oui j'ai dû m'y reprendre à 2 fois avant d'avoir un bon résultats)... Mais point positif, je maniais de mieux en mieux les spatules et le mastic !
 
