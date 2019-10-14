@@ -1,6 +1,4 @@
 
-# Borne d'arcade Homemade
-
 Oui vous avez bien lu : une borne d'arcade faite maison !!! Mais entrons directement dans le sujet je vous en prie =)
 
 J'avais un peu de temps durant mon année de césure entre mon stage de prototypage électronique à Paris et mon stage de 3 mois en Allemagne. J'ai donc décidé de faire une borne d'arcade pendant ce petit mois de répit, surfant ainsi sur la vague du rétro-gaming et le fameux "c'était mieux avant !". Je n'ai pas forcément une grande appétance pour les jeux vidéos mais je trouvais l'objet vraiment sympa. C'était aussi un bon prétexte pour apprendre à peindre (peinture automobile en cabine avec toutes les phases qui vont bien mais vous verrez ça plus tard).
