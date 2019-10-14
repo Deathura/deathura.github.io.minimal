@@ -59,11 +59,11 @@ Mais ç'aurait été long, je ne faisais pas une Ferrari et ça me suffisait lar
 
 Je me suis ensuite attaqué à l'electronique de la borne :
 
-## Le Marquee
+### Le Marquee
 
 C'est la partie lumineuse qu'il y a en haut des bornes. Souvent, pour les bornes à thème, le marquee présente une illustration du jeu éclairée depuis l'intérieur de la borne. N'ayant pas un jeu spécifique à mettre en valeur, j'ai préféré laisser le marquee neutre et jouer plutôt sur les lumières. J'ai donc mis une plaque de plexiglas que j'ai recouverte avec du film de salle de bain (qui rend opaque mais laisse passer la lumière). J'ai ensuite placé derrière un ruban LED RGB avec un microcontrôleur (un atTiny85). C'est un microcontrôleur vraiment basique qui suffit largement pour controler les lumières du ruban et faire des effets arc-en-ciel, flash, etc. J'ai laissé le script de démo par défaut, à voir si je reviens dessus plus tard mais je ne pense pas, c'est très joli comme ca.
 
-## Le PC
+### Le PC
 
 Pour faire tourner la borne, j'ai récupéré un vieux PC que j'ai entièrement démonté pour des soucis d'intégration dans la borne. J'ai donc directement fixé la carte mère sur le bois en mettant des entretoises (petites cales) que j'ai dessinées et imprimées en 3D. Cela a pour but de ne pas coller la carte mère au bois et ainsi permettre le refroidissement.
 
