@@ -1,4 +1,6 @@
 
+# Borne d'arcade Homemade
+
 Oui vous avez bien lu : une borne d'arcade faite maison !!! Mais entrons directement dans le sujet je vous en prie =)
 
 J'avais un peu de temps durant mon année de césure entre mon stage de prototypage électronique à Paris et mon stage de 3 mois en Allemagne. J'ai donc décidé de faire une borne d'arcade pendant ce petit mois de répit, surfant ainsi sur la vague du rétro-gaming et le fameux "c'était mieux avant !". Je n'ai pas forcément une grande appétance pour les jeux vidéos mais je trouvais l'objet vraiment sympa. C'était aussi un bon prétexte pour apprendre à peindre (peinture automobile en cabine avec toutes les phases qui vont bien mais vous verrez ça plus tard).
@@ -9,7 +11,7 @@ J'avais fait un petit plan 3D en guise de maquette pour pouvoir tester différen
 
 Scie sauteuse, scie circulaire, rabot électrique, visseuse et voilà la structure de la borne faite !
 
-![Pictures of the wood stucture](https://github.com/Deathura/deathura.github.io/blob/master/assets/images/borne_arcade/structure_bois.jpg)
+![Pictures of the wood stucture](structure_bois.jpg)
 
 Je n'ai pas de photos avant celle-là... En général, pris dans mon projet, j'oublie de faire des photos et ce n'est qu'après que je me dis que je suis stupide et que j'aurais dû en faire... bref...
 
@@ -23,7 +25,7 @@ J'ai ensuite commencé le travail de rebouchage des pores du bois. J'ai utilisé
 
 ![Photo de la structure bois](../assets/images/borne_arcade/pieds+mastic.jpg)
 
-Je me rendais déjà compte à ce moment que je n'avais pas fini de poncer... J'avais déjà poncé le bois une fois pour lisser les assemblages et enlever le plus gros, puis après la première couche de mastic, puis après la seconde couche (car oui j'ai dû m'y reprendre à 2 fois avant d'avoir un bon résultats)... Mais point positif, je maniais de mieux en mieux les spatules et le mastic ! 
+Je me rendais déjà compte à ce moment que je n'avais pas fini de poncer... J'avais déjà poncé le bois une fois pour lisser les assemblages et enlever le plus gros, puis après la première couche de mastic, puis après la seconde couche (car oui j'ai dû m'y reprendre à 2 fois avant d'avoir un bon résultats)... Mais point positif, je maniais de mieux en mieux les spatules et le mastic !
 
 Les pores du bois et les trous d'assemblage bouchés, je m'attaquais alors à la peinture ! Direction la cabine de peinture en sous-sol, petit brief du carrossier qui m'expliquait les dosages et l'application au pistolet et me voilà parti ! Je commençai donc par passer une couche d'apprêt pour permettre de lisser finement la surface et permettre à la peinture de bien adhérer (oui l'apprêt se met avant... Je trouve ça drôle même si une fois écrit ça l'est un peu moins. Mais dites-le à l'oral vous verrez c'est fun :D bref...).
 
